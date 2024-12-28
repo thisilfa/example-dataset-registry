@@ -4,3 +4,4 @@
     url = gdrive://14hF1DvYGlyEXaBENdS2A17scP81xj85f
 ['remote "serverai-rmt"']
     url = ssh://serverai@ai.quick.com:2222/home/serverai/backup_mounting/dataset-example
+    ask_password = true
